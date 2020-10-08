@@ -1,0 +1,56 @@
+h1{
+    color: red;
+}
+
+div p,div label{
+    background-color: navajowhite !important;      
+}
+
+.class1{
+    border-style: solid;
+}
+
+.class2{
+    border-style: dotted;
+}
+
+#p1{
+    background-color: orange;
+    font
+}
+
+p:hover{
+    background-color: red;
+}
+
+#p2::first-letter{
+    color: saddlebrown;
+}
+
+div > label{
+    font-size: 0.5em;
+}
+
+p + label{
+    font-size: 2em !important;
+}
+
+p ~ label{
+    font-size: 200%;
+}
+
+#div2{
+    background-color: blueviolet;
+    border-style: solid;
+}
+
+#box{
+    box-sizing: border-box;
+    overflow: a;
+    width:50%;
+    height:50%;
+    margin: 2em;
+    padding: 4em;
+    background-color: white !important;
+    border-style: dotted
+}
